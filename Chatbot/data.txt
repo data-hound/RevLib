@@ -1,0 +1,22 @@
+
+# C: Hi
+# S: Hello sir, can I be helpful in suggesting a phone for you?
+# C: Yes, I need something with a Qualcomm processor.
+# S: The Nokia 6 has a Qualcomm processor.
+# C: Okay, can I have a few more choices?
+# S: Well, Xiomi Redmi Note 4, Oppo F3 Plus, Samsung Galaxy C9 Pro and Vivo V7 Plus are some other phones with a Qualcomm Processor
+# C: Okay, But I think I’ll go with the Nokia 6. What’s its specifications?
+# S: It’s got a 5.5” bright full-HD display, Immersive sound with Dolby Atmos and a 16 MP Camera.
+# C: What’s it’s price?
+# S: It’s available for Rs. 14,999.
+# C: Thanks for the info
+
+
+# C: Hi
+# S: Hello sir, can I suggest you a phone?
+# C: yeah, but can you suggest me something other than a phone?
+# S: I can only suggest you smartphones for now. 
+# C: Fine…. Show me some awesome phones with a nice display.
+# S: The Moto G5s Plus (Lunar Grey, 64GB), Honor 6X (Grey, 64GB) and Honor 7X (Blue, 4GB RAM + 32GB memory) are some phones with a cool display.
+# C: How much is the Moto G5 ?
+# S: It’s available for Rs 14,999 on Amazon.
